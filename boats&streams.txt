@@ -1,0 +1,36 @@
+How to solve Boats and Streams Problem Quickly In Aptitude
+In water, the direction along the stream is called Downstream
+
+The direction against the stream is called Upstream.
+Boat Speed: The speed of a boat in still water (in km/h or m/s).
+Stream Speed: The speed of the water current (in km/h or m/s).
+ 
+The boats and streams problems are based on the concepts of time, speed, and distance. However, a few adjustments need to be made in case of such problems. There are some variations of these problems .
+ 
+
+Use the formula:
+
+Downstream Speed = Boat Speed + Stream Speed
+Upstream Speed = Boat Speed – Stream Speed
+
+Basic Formulas for Upstream and Downstream
+1) If the speed of a boat in still water is u km/hr and the speed of the stream is v km/hr, then
+
+Speed downstream = (u + v) km/hr
+Speed upstream = (u – v) km/hr.
+
+2)If the speed downstream is a km/hr and the speed upstream is b km/hr, then 
+
+Speed in still water  1/2(a+b) km/hr
+rate of stream 1/2(a-b) km/hr
+
+3) Lets Assume that a man can row at the speed of x km/hr in still water and he rows the same distance up and down in a stream which flows at a rate of y km/hr. Then his average speed throughout the journey is :
+
+    =	 	((Speed Downstream)*(Speed Upstream) )/	 	 	 
+Speed in Still Water
+    =	 	((x + y)*(x – y))/x	 	 	 
+
+4)Let the speed of a man in still water be x km/hr and the speed of a stream be y km/hr. If he takes t hours more in upstream than to go downstream for the same distance, the distance travelled is
+
+    =	 	((x^2 – y^2)*t )/2y	 	 	 
+

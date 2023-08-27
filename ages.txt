@@ -1,0 +1,12 @@
+Important Formulas to Solve Ages Question
+If you are assuming the current age to be x, then the age after n years will be (x+n) years.
+If you are assuming the current age to be x, then the age before n years will be (x-n) years.
+If the age is given in the form of a ratio, for example, p:q, then the age shall be considered as qx and px
+If you are assuming the current age to be x, then n times the current age will be (x×n) years
+If you are assuming the current age to be x, then 1/n of the age shall be equal to (x/n) years
+Tricks to Solve Ages Question
+The most important thing is to read the question carefully and gradually form the equation which shall help you answer the question.
+Basic things like addition, subtraction, multiplication and division will help a candidate reach the answer and no complicated calculations are required to answer such questions.
+Arrange the values given by placing them correctly in an equation by giving variables to the unknown values
+Once the equation has been formed, solve the equation to find the answer.
+The final step is to recheck the answer obtained by placing it in the equation formed to ensure that no error has been made while calculating.

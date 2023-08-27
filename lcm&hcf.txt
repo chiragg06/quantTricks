@@ -1,0 +1,29 @@
+HCF – It is important to note that HCF of the given numbers cannot be greater than any one of them.
+LCM – It is important to note that LCM of the given numbers cannot be smaller than any one of them.
+If 1 is the HCF of 2 numbers, then their LCM will be their product.
+For two co prime numbers, the HCF is always 1
+
+HCF in case of only two numbers:
+Suppose the question asks to calculate the HCF of any two numbers. Then Divide the larger number by the smaller one.
+Now divide the divisor by the remainder.
+Keep dividing the preceding divisor with the remainder until a Zero remainder is obtained.
+The last divisor obtained will be the HCF of those two given number.
+
+HCF in case of more than two numbers:
+The HCF of these two numbers and the third number will be the HCF of all three numbers and so forth.
+Choose any two numbers and find their HCF by applying the above-mentioned method.
+The rule for Solving HCF and LCM Questions and Answers:
+ Calculate the multiples or the factors of the larger number until one of them is also a multiple of the smaller number.
+Then multiply all these factors, and the resultant will be the LCM of the given numbers.
+
+HCF and LCM Tips and Tricks and Shortcuts
+The H.C.F of two or more numbers is smaller than or equal to the smallest number of given numbers
+The smallest number which is exactly divisible by a, b and c is L.C.M of a, b, c.
+The L.C.M of two or more numbers is greater than or equal to the greatest number of given numbers.
+The smallest number which when divided by a, b and c leaves a remainder R in each case. Required number = (L.C.M of a, b, c) + R
+The greatest number which divides a, b and c to leave the remainder R is H.C.F of (a – R), (b – R) and (c – R)
+The greatest number which divide x, y, z to leave remainders a, b, c is H.C.F of (x – a), (y – b) and (z – c)
+The smallest number which when divided by x, y and z leaves remainder of a, b, c (x – a), (y – b), (z – c) are multiples of M
+Required number = (L.C.M of x, y and z) – M
+
+Product of two numbers = H.C.F x L.C.M

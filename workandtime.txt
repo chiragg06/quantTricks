@@ -1,0 +1,131 @@
+Basic Rules Related to Work and Time
+
+Rule - 1: Work from Days:
+
+If a person can do a piece of work in n days (hours), then that person's 1 day's (hour's), work = 1/n
+
+Rule- 2 : Days from Work:
+
+If a person's 1 day's (hour's) work = 1/n, then the person will complete the work in n days (hours).
+
+Rule - 3
+
+If a person is n times efficient than second person, then work done by :
+
+Ratio of work done by First person and Second person = n : 1.
+
+Ratio of times taken by First person and second person to finish a work = 1 : n.
+
+Rule - 4
+
+If ratio of numbers of men required to complete a work is m : n, then the ratio of time taken by them will be n : m.
+
+2. Man - Work - Hour Formula:
+
+More men can do more work.
+More work means more time required to do work.
+More men can do more work in less time.
+M men can do a piece of work in T hours, then
+Total effort or work = MT man hours.
+
+Rate of work * Time = Work Done
+If A can do a piece of work in D days, then A's 1 day's work = 1/D.
+Part of work done by A for t days = t/D.
+
+If A's 1 day's work = 1/D, then A can finish the work in D days.
+
+Fast Track Techniques !!
+
+
+Techniques - 1
+
+M D H / W = Constant
+
+Where,
+
+   M = Number of men
+
+   D = Number of days
+
+   H = Number of hours per day
+
+   W = Amount of work
+
+
+
+Techniques - 2
+
+If M1 men can do W1 work in D1 days working H1 hours per day and M2 men can do W2 work in D2 days working H2 hours per day, then
+
+   
+M1 D1 H1 / W1 = M2 D2 H2 / W2
+
+
+
+Techniques - 3
+
+If A is x times as good a workman as B, then:
+
+Ratio of work done by A and B = x : 1
+
+Ratio of times taken by A and B to finish a work = 1 : x ie; A will take (1/x)th of the time taken by B to do the same work.
+
+
+
+Techniques - 4
+
+A and B can do a piece of work in 'x' days and 'y' days respectively, then working together:
+
+They will complete the work in (xy/x+y) days
+In one day, they will finish (x+y/xy)th part of work.
+
+
+Techniques - 5
+
+If A can do a piece of work in 'x' days, B can do in 'y' days and C can do in 'z' days then,
+
+A, B and C together can finish the same work in (xyz/xy+yz+zx) days
+
+
+
+Techniques - 6
+
+If A can do a work in 'x' days and A and B together can do the same work in 'y' days then,
+
+Number of days required to complete the work if B works alone = (xy/x-y)days
+
+TIPS on cracking Aptitude Questions on Work and Time
+
+Tip #1: Assume that the productivity of each worker is constant
+
+1.    Question: A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs.3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?
+
+Solution:
+
+Let the total amount of work to be done be W units.
+
+Productivity of A, Pa = W/6 units per day.
+
+Productivity of B, Pb = W/8 units per day.
+
+3 days x [Pa + Pb + Pc] = W => Pc = W/24 units per day
+
+Ratio of wages of A: B: C = Ratios of their productivities = (W/6): (W/8): (W/24) = 4: 3: 1.
+
+Amount to be paid to C = Rs.3200 x (1/8) = Rs.400
+
+2.    Question: It takes 6 hours for pump A, used alone, to fill a tank of water. Pump B used alone takes 8 hours to fill the same tank. We want to use three pumps: A, B and another pump C to fill the tank in 2 hours. What should be the rate of pump C? How long would it take pump C, used alone, to fill the tank?
+
+Solution:
+
+Let the total capacity of the tank be C liters.
+
+Fill rate of pump A, Fa = C/6 liters per hr
+
+Fill rate of pump B, Fb = C/8 liters per hr
+
+2 hrs x [Fa + Fb + Fc] = C => Fc = 5C/24 liters per hr
+
+Let‘t’ be the time taken by only pump C to fill the tank.
+
+‘t’ hrs x 5C/24 = C => t = 24/5 = 4.8 hrs

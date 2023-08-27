@@ -1,0 +1,69 @@
+Formulas of Number System:
+1. 1 + 2 + 3 + 4 + 5 + … + n = n(n + 1)/2
+
+2. (1² + 2² + 3² + ….. + n²) = n ( n + 1 ) (2n + 1)/6
+
+3. (1³ + 2³ + 3³ + ….. + n³) = (n(n + 1)/2)²
+
+4. Entirety of first n odd numbers = n²
+
+5. Entirety of first n even numbers = n(n + 1)
+
+Mathematical Formulas to solve questions
+
+1. (a + b)(a – b) = (a² – b²)
+
+2. (a + b)² = (a² + b² + 2ab)
+
+3. (a – b)² = (a² + b² – 2ab)
+
+4. (a + b + c)² = a² + b² + c² + 2(ab + bc + ca)
+
+5. (a³ + b³) = (a + b)(a² – ab + b²)
+
+6.(a³ – b³) = (a – b)(a² + ab + b²)
+
+7. (a³ + b³ + c³ – 3abc) = (a + b + c)(a² + b² + c² – ab – bc – ac)
+
+8. when a + b + c = 0, then a³ + b³ + c³ = 3abc
+
+
+Squares of numbers between 91-100:
+97^2
+Step 1: 97 can be written as (100-3)
+= 10000 + 9 – 600 (using (a-b)^2)
+
+= 10009 -600 = 9409 
+
+
+
+Squares of numbers between 100-109:
+
+
+102^2
+Step 1: 102 can be written as (100+2)
+
+Step 2: using (a+b)^2
+
+10000 + 4 + 400 = 10404
+
+
+Squares of numbers between 51-60
+
+53^2
+Step 1: 53-50 = 3
+
+Step 2: 25+3 = 28
+
+Step 3: 3^2 = 09
+
+Final result: From step 2 and step 3 => 53^2 = 2809.
+
+42^2
+Step 1: 50-42 = 8
+
+Step 2: 25-8 = 17
+
+Step 3: 8^2 = 64
+
+Final Result From step 2 and step 3 => 42^2 = 1764

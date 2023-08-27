@@ -1,0 +1,8 @@
+Speed of the Train = Total distance covered by the train / Time taken
+If the length of two trains is given, say a and b, and the trains are moving in opposite directions with speeds of x and y respectively, then the time taken by trains to cross each other = {(a+b) / (x+y)}
+If the length of two trains is given, say a and b, and they are moving in the same direction, with speeds x and y respectively, then the time is taken to cross each other = {(a+b) / (x-y)}
+When the starting time of two trains is the same from x and y towards each other and after crossing each other, they took t1 and t2 time in reaching  y and x respectively, then the ratio between the speed of two trains = √t2 : √t1
+If two trains leave x and y stations at time t1 and t2 respectively and travel with speed L and M respectively, then distanced from x, where two trains meet is = (t2 – t1) × {(product of speed) / (difference in speed)}
+The average speed of a train without any stoppage is x, and with the stoppage, it covers the same distance at an average speed of y, then Rest Time per hour = (Difference in average speed) / (Speed without stoppage) 
+If two trains of equal lengths and different speeds take t1 and t2 time to cross a pole, then the time taken by them to cross each other if the train is moving in opposite direction = (2×t1×t2) / (t2+t1)
+If two trains of equal lengths and different speeds take t1 and t2 time to cross a pole, then the time taken by them to cross each other if the train is moving in the same direction = (2×t1×t2) / (t2-t1)

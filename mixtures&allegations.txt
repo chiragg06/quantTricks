@@ -1,0 +1,18 @@
+Mixture: It is the process of mixing two or more elements/ingredients together.
+
+Allegation: It is a process or a rule that tells us how to mix two or more ingredients/mixtures to get the desired mixture of a certain price & concentration.
+
+Formula Method:
+Quantity of cheaper/ Quantity of dearer = (Price of dearer – Mean price)/ (Mean Price- Price of cheaper)
+
+Illustration 1. If 20 kgs of rice which cost 45 Rs/Kg is mixed with 25 kgs of rice which costs 30 Rs/Kg. What will be the price of the final mixture?
+
+Now as we know, (45-M)/(M-30)=25/20
+
+⇒ (45-M)/(M-30)= 5/4
+
+⇒180-4M = 5M- 150
+
+⇒ 330= 9M
+
+⇒ M= 330/9= 36.6 Rs/Kg
